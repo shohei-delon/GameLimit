@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "292954785617",
+    "firebase_url": "https://admob-app-id-6362912864.firebaseio.com",
+    "project_id": "admob-app-id-6362912864",
+    "storage_bucket": "admob-app-id-6362912864.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292954785617:android:591e05d6bbe1eac8",
+        "android_client_info": {
+          "package_name": "com.delon.user.fortunetellingofmynumber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292954785617-5q65870laocdhmb72ieqr014agm9950f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdTWZFpCaEh5mTKMrxqxD2fm1aPkrZU2o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292954785617:android:bf35bfeac008dfa6",
+        "android_client_info": {
+          "package_name": "com.delon.user.gamelimit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292954785617-5q65870laocdhmb72ieqr014agm9950f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdTWZFpCaEh5mTKMrxqxD2fm1aPkrZU2o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
